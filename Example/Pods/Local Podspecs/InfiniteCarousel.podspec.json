@@ -1,0 +1,22 @@
+{
+  "name": "BRBankSlipChecker",
+  "version": "0.1.0",
+  "summary": "A short description of BRBankSlipChecker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/filletofish/BRBankSlipChecker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "filletofish": "julik103@mail.ru"
+  },
+  "source": {
+    "git": "https://github.com/filletofish/BRBankSlipChecker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BRBankSlipChecker/Classes/**/*"
+}

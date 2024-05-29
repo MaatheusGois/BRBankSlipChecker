@@ -1,0 +1,26 @@
+{
+  "name": "BRBankSlipChecker",
+  "version": "0.1.3",
+  "summary": "BRBankSlipChecker is a validator for Brazilian bank slips.",
+  "description": "BRBankSlipChecker is a validator for Brazilian bank slips.",
+  "homepage": "https://github.com/maatheusgois/BRBankSlipChecker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "maatheusgois": "matheusgoislimasilva@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/maatheusgois/BRBankSlipChecker.git",
+    "tag": "0.1.3"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "Sources/BRBankSlipChecker/**/*",
+  "swift_versions": [
+    5.0
+  ],
+  "swift_version": "5.0"
+}

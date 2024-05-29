@@ -1,0 +1,16 @@
+PODS:
+  - BRBankSlipChecker (0.1.3)
+
+DEPENDENCIES:
+  - BRBankSlipChecker (from `../`)
+
+EXTERNAL SOURCES:
+  BRBankSlipChecker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BRBankSlipChecker: 47db12448acf7e2ae15ce077232b8df409587b75
+
+PODFILE CHECKSUM: 70cfccbfec14c097129b8e912f6d0ed067f1219e
+
+COCOAPODS: 1.15.2
