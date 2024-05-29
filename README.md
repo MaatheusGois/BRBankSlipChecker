@@ -1,5 +1,7 @@
 # 🇧🇷 BRBankSlipChecker
 
+Based in: https://github.com/mcrvaz/boleto-brasileiro-validator
+
 Biblioteca para validar boletos.
 
 Suporta boletos de arrecadação e boletos bancários, tanto a representação do código de barras como a linha digitável.
